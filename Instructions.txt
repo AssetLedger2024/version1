@@ -1,0 +1,74 @@
+ASSET LEDGER
+This application is a desktop application made for windows and supports windows 7 and upper versions.
+
+About The App
+It is a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI.
+This application allows you to maintain your data of 5 different categories:
+
+Categories
+  - Savings
+  - Investments
+  - Insurance
+  - Loans
+
+Savings
+  - Fixed Deposits
+  - Public Providend Funds
+  - Bank Details
+  - Sukanya Savings A/C
+
+Investments
+  - Shares
+  - Commodities
+  - Property
+
+Insurance
+  - Life Insurance
+  - General Insurance
+  - Mediclaim
+
+Loans
+  - Private Lending
+  - Bank Borrowing
+  - Private Borrowing
+
+Money
+  - Incomes and Expenses
+
+The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
+For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) before as well as after the date.
+
+NOTE
+Please go through the privacy policy of our application.
+
+Privacy Policy
+  - No data is saved at cloud servers.
+  - All data secured in your local computer drive. Therefore no threat of online leakage of data.
+  - No third party engagments.
+  - Almost all textual data is encrypted except the images and the pdfs uploaded on application.
+
+IMPORTANT
+Always give your correct email and phone number as the security alerts and login activity will be sent on it.
+
+Data Retreival
+  - When your record is saved , it is stored in a encrypted form and no 3rd party can understand it in stored form.
+  - No data can be retreived once damaged or deleted due to our privacy policy of not saving any online cloud backup.
+  - But a local backup is saved simultaneously which can be extracted if needed and not destroyed.
+
+Encryption
+  - All your text data is encrypted by our encryption algorithym but the pictures and pdf documents you upload in the app wont be encrypted.
+
+DISCLAIMER
+  -All the data uploaded on our application is the choice of the users and we do not promote any illegal activity on our application.
+  - We do not use any of your data but at the same time we are not responsible for any kind of unethically data usage or theft done any online hacker or so not associated with us.
+
+Contact Us
+
+Social Media Handles
+Youtube :- [@ASSETLEDGER ](https://www.youtube.com/channel/UCQs_T-zgMnMY3a4AU0Ps9hw)
+Gmail :- assetledgerquerydesk@gmail.com
+
+Developer
+Kanishk Gupta
+Mail : assetledgerho@gmail.com
+https://assetledger.github.io/aboutus/
